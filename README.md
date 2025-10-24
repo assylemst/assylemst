@@ -1,4 +1,17 @@
-<h2 align="left">Hello World!!</h2>
+<h2 align="left">no Senac Nações Unidas e apaixonada por tecnologia, inovação e desenvolvimento de soluções que facilitam o dia a dia das pessoas. Atualmente, estou focada em aprimorar minhas habilidades em:
+
+💻 Desenvolvimento Front-end e Back-end
+
+🌐 Linguagens: C, Java, HTML, CSS e JavaScript
+
+🧠 Lógica de programação e algoritmos
+
+⚙️ Versionamento com Git e GitHub
+
+
+Meu objetivo é crescer profissionalmente na área de TI, contribuindo com projetos inovadores e desenvolvendo soluções eficientes e acessíveis.
+
+📫 Contato: melyyssaaguiar16@gmail.com!!</h2>
 
 ###
 
