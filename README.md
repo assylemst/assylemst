@@ -1,4 +1,4 @@
-<h2 align="left">Olá, eu sou a Melyssa 👋 e faço Sistemas de informações no Senac Nações Unidas e apaixonada por tecnologia, inovação e desenvolvimento de soluções que facilitam o dia a dia das pessoas. Atualmente, estou focada em aprimorar minhas habilidades em:
+<h2 align="left">Olá, eu sou a Melyssa 👋 sou estudante de Sistemas de informações e apaixonada por tecnologia, inovação e desenvolvimento de soluções que facilitam o dia a dia das pessoas. Atualmente, estou focada em aprimorar minhas habilidades em:
 
 💻 Desenvolvimento Front-end e Back-end
 
